@@ -51,3 +51,4 @@ You can install additional packages by running the following command in the term
 ```bash
 pip install <package-name>
 ```
+
